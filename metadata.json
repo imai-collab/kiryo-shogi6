@@ -1,0 +1,6 @@
+{
+  "name": "５秒で解きたい３手詰④",
+  "description": "簡単な詰将棋を解くことができるアプリです。あなたの指し手に対して自動で応手します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
